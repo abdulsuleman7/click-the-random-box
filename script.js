@@ -1,4 +1,4 @@
-console.log("hey coders....")
+console.log("  ")
 
 function RandomColor() {
     let ran1 = Math.floor(Math.random() * 255);
